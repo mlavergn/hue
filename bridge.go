@@ -12,7 +12,7 @@ import (
 
 // http://www.developers.meethue.com/documentation/configuration-api#71_create_user
 const (
-	maxAppNameLength = 20
+	maxAppNameLength    = 20
 	maxDeviceNameLength = 19
 )
 
